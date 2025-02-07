@@ -1,11 +1,12 @@
-﻿The Project Gutenberg EBook of Happy England, by Marcus B. Huish
+The Project Gutenberg eBook of Happy England, by Marcus B. Huish
 
-This eBook is for the use of anyone anywhere in the United States and most
-other parts of the world at no cost and with almost no restrictions
-whatsoever.  You may copy it, give it away or re-use it under the terms of
-the Project Gutenberg License included with this eBook or online at
-www.gutenberg.org.  If you are not located in the United States, you'll have
-to check the laws of the country where you are located before using this ebook.
+This eBook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org. If you are not located in the United States, you
+will have to check the laws of the country where you are located before
+using this eBook.
 
 Title: Happy England
 
@@ -14,25 +15,15 @@ Author: Marcus B. Huish
 Illustrator: Helen Allingham
 
 Release Date: May 10, 2017 [EBook #54696]
+[Most recently updated: December 24, 2020]
 
 Language: English
 
 Character set encoding: UTF-8
 
-*** START OF THIS PROJECT GUTENBERG EBOOK HAPPY ENGLAND ***
+Produced by: MaMFR, Adrian Mastronardi, Wayne Hammond and the Online Distributed Proofreading Teamrtin
 
-
-
-
-Produced by MFR, Adrian Mastronardi, Wayne Hammond and the
-Online Distributed Proofreading Team at http://www.pgdp.net
-(This file was produced from images generously made
-available by The Internet Archive/Canadian Libraries)
-
-
-
-
-
+*** START OF THE PROJECT GUTENBERG EBOOK HAPPY ENGLAND ***
 
 
 
@@ -5003,19 +4994,11 @@ Inconsistent spelling and hyphenation are as in the original.]
 
 
 
-
-End of the Project Gutenberg EBook of Happy England, by Marcus B. Huish
-
-*** END OF THIS PROJECT GUTENBERG EBOOK HAPPY ENGLAND ***
+*** END OF THE PROJECT GUTENBERG EBOOK HAPPY ENGLAND ***
 
 ***** This file should be named 54696-0.txt or 54696-0.zip *****
 This and all associated files of various formats will be found in:
-        http://www.gutenberg.org/5/4/6/9/54696/
-
-Produced by MFR, Adrian Mastronardi, Wayne Hammond and the
-Online Distributed Proofreading Team at http://www.pgdp.net
-(This file was produced from images generously made
-available by The Internet Archive/Canadian Libraries)
+    https://www.gutenberg.org/5/4/6/9/54696/
 
 Updated editions will replace the previous one--the old editions will
 be renamed.
@@ -5115,8 +5098,8 @@ performed, viewed, copied or distributed:
   restrictions whatsoever. You may copy it, give it away or re-use it
   under the terms of the Project Gutenberg License included with this
   eBook or online at www.gutenberg.org. If you are not located in the
-  United States, you'll have to check the laws of the country where you
-  are located before using this ebook.
+  United States, you will have to check the laws of the country where
+  you are located before using this eBook.
 
 1.E.2. If an individual Project Gutenberg-tm electronic work is
 derived from texts not protected by U.S. copyright law (does not
@@ -5288,9 +5271,8 @@ Archive Foundation and how your efforts and donations can help, see
 Sections 3 and 4 and the Foundation information page at
 www.gutenberg.org
 
-
-
-Section 3. Information about the Project Gutenberg Literary Archive Foundation
+Section 3. Information about the Project Gutenberg Literary
+Archive Foundation
 
 The Project Gutenberg Literary Archive Foundation is a non profit
 501(c)(3) educational corporation organized under the laws of the
@@ -5369,4 +5351,5 @@ This Web site includes information about Project Gutenberg-tm,
 including how to make donations to the Project Gutenberg Literary
 Archive Foundation, how to help produce our new eBooks, and how to
 subscribe to our email newsletter to hear about new eBooks.
+
 
